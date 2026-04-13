@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| agile.house      | available | $27.99    | $58.99        | 92             | 42     | 5      | name.com        |
-| sweet.house      | resell    | —         | —             | 72             | 99     | 5      | Dynadot Inc     |
-| auto.house       | premium   | $260      | $260          | 68             | 42     | 4      | namecheap       |
-| unify.house      | available | $27.99    | $58.99        | 72             | 38     | 5      | name.com        |
-| commercial.house | resell    | —         | —             | 91             | 98     | 10     | Porkbun LLC     |
-| research.house   | premium   | $42.90    | $42.90        | 92             | 36     | 8      | namecheap       |
-| terminal.house   | available | $27.99    | $58.99        | 104            | 36     | 8      | name.com        |
-| brandnew.house   | resell    | —         | —             | 72             | 98     | 9      | NameSilo, LLC   |
-| luxury.house     | premium   | $500      | —             | 84             | 36     | 6      | name.com        |
-| resume.house     | available | $27.99    | $58.99        | 98             | 35     | 6      | name.com        |
-| universal.house  | resell    | —         | —             | 96             | 81     | 9      | Name.com, Inc.  |
-| organic.house    | premium   | $82.50    | $82.50        | 93             | 33     | 7      | name.com        |
-| streaming.house  | available | $55.98    | —             | 88             | 35     | 9      | namecheap       |
-| cat.house        | resell    | —         | —             | 92             | 80     | 3      | NameCheap, Inc. |
-| able.house       | premium   | $27.99    | $58.99        | 80             | 32     | 4      | name.com        |
-| dynamic.house    | available | $27.99    | $58.99        | 94             | 34     | 7      | name.com        |
-| box.house        | resell    | —         | —             | 68             | 78     | 3      | Spaceship, Inc. |
-| ten.house        | premium   | $42.90    | $42.90        | 88             | 31     | 3      | namecheap       |
-| adaptive.house   | available | $27.99    | $58.99        | 76             | 32     | 8      | name.com        |
-| boss.house       | resell    | —         | —             | 76             | 73     | 4      | NameCheap, Inc. |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| agile.house     | available | $27.99    | $58.99        | 92             | 42     | 5      | name.com        |
+| sweet.house     | resell    | —         | —             | 72             | 99     | 5      | Dynadot Inc     |
+| auto.house      | premium   | $260      | $260          | 68             | 42     | 4      | namecheap       |
+| unify.house     | available | $27.99    | $58.99        | 72             | 38     | 5      | name.com        |
+| brandnew.house  | resell    | —         | —             | 72             | 98     | 9      | NameSilo, LLC   |
+| research.house  | premium   | $42.90    | $42.90        | 92             | 36     | 8      | namecheap       |
+| terminal.house  | available | $27.99    | $58.99        | 104            | 37     | 8      | name.com        |
+| universal.house | resell    | —         | —             | 96             | 81     | 9      | Name.com, Inc.  |
+| luxury.house    | premium   | $500      | —             | 84             | 36     | 6      | name.com        |
+| resume.house    | available | $27.99    | $58.99        | 98             | 35     | 6      | name.com        |
+| cat.house       | resell    | —         | —             | 92             | 80     | 3      | NameCheap, Inc. |
+| organic.house   | premium   | $82.50    | $82.50        | 93             | 33     | 7      | name.com        |
+| streaming.house | available | $55.98    | —             | 88             | 35     | 9      | namecheap       |
+| box.house       | resell    | —         | —             | 68             | 78     | 3      | Spaceship, Inc. |
+| able.house      | premium   | $27.99    | $58.99        | 80             | 32     | 4      | name.com        |
+| dynamic.house   | available | $27.99    | $58.99        | 94             | 34     | 7      | name.com        |
+| boss.house      | resell    | —         | —             | 76             | 73     | 4      | NameCheap, Inc. |
+| ten.house       | premium   | $42.90    | $42.90        | 88             | 31     | 3      | namecheap       |
+| adaptive.house  | available | $27.99    | $58.99        | 76             | 32     | 8      | name.com        |
+| wise.house      | resell    | —         | —             | 98             | 72     | 4      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
