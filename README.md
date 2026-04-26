@@ -1,22 +1,22 @@
-# Available .HOUSE One-Word Domains (8,192)
+# Available .HOUSE One-Word Domains (10,520)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C192%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C192%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C520%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .house one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .house one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,520 domains** on the canonical page below.
 
-**Public extract:** 8,192 rows · **Live catalog:** 8,192 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,520 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/house`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .HOUSE one-word domain
 
 ### Files
 
-- `house.csv` — public CSV extract (8,192 rows)
-- `house.json` — public JSON extract (8,192 rows)
+- `house.csv` — public CSV extract (1,000 rows)
+- `house.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| agile.house     | available | $27.99    | $58.99        | 92             | 42     | 5      | name.com        |
-| sweet.house     | resell    | —         | —             | 72             | 99     | 5      | Dynadot Inc     |
-| auto.house      | premium   | $260      | $260          | 68             | 42     | 4      | namecheap       |
-| unify.house     | available | $27.99    | $58.99        | 72             | 38     | 5      | name.com        |
-| brandnew.house  | resell    | —         | —             | 72             | 98     | 9      | NameSilo, LLC   |
-| research.house  | premium   | $42.90    | $42.90        | 92             | 36     | 8      | namecheap       |
-| terminal.house  | available | $27.99    | $58.99        | 104            | 37     | 8      | name.com        |
-| universal.house | resell    | —         | —             | 96             | 81     | 9      | Name.com, Inc.  |
-| luxury.house    | premium   | $500      | —             | 84             | 36     | 6      | name.com        |
-| resume.house    | available | $27.99    | $58.99        | 98             | 35     | 6      | name.com        |
-| cat.house       | resell    | —         | —             | 92             | 80     | 3      | NameCheap, Inc. |
-| organic.house   | premium   | $82.50    | $82.50        | 93             | 33     | 7      | name.com        |
-| streaming.house | available | $55.98    | —             | 88             | 35     | 9      | namecheap       |
-| box.house       | resell    | —         | —             | 68             | 78     | 3      | Spaceship, Inc. |
-| able.house      | premium   | $27.99    | $58.99        | 80             | 32     | 4      | name.com        |
-| dynamic.house   | available | $27.99    | $58.99        | 94             | 34     | 7      | name.com        |
-| boss.house      | resell    | —         | —             | 76             | 73     | 4      | NameCheap, Inc. |
-| ten.house       | premium   | $42.90    | $42.90        | 88             | 31     | 3      | namecheap       |
-| adaptive.house  | available | $27.99    | $58.99        | 76             | 32     | 8      | name.com        |
-| wise.house      | resell    | —         | —             | 98             | 72     | 4      | Spaceship, Inc. |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
+| shortcuts.house    | available | $27.99    | —             | 48             | 41     | 10     | name.com                |
+| shop.house         | resell    | —         | —             | 73             | 54     | 4      | Porkbun LLC             |
+| SanDiego.house     | premium   | $242      | $242          | 74             | 29     | 9      | namesilo                |
+| neuroscience.house | available | $27.99    | —             | 80             | 37     | 12     | name.com                |
+| best.house         | resell    | —         | —             | 82             | 52     | 4      | Porkbun LLC             |
+| weddings.house     | premium   | $78.54    | $78.54        | 64             | 18     | 8      | namesilo                |
+| payments.house     | available | $27.99    | —             | 58             | 33     | 8      | name.com                |
+| gold.house         | resell    | —         | —             | 72             | 48     | 4      | Porkbun LLC             |
+| ladies.house       | premium   | $123.75   | —             | 80             | 17     | 6      | name.com                |
+| letsgo.house       | available | $27.99    | —             | 57             | 31     | 7      | name.com                |
+| trade.house        | resell    | —         | —             | 82             | 46     | 5      | Porkbun LLC             |
+| videos.house       | available | $27.99    | —             | 52             | 30     | 6      | name.com                |
+| every.house        | resell    | —         | —             | 82             | 46     | 5      | Unstoppable Domains Inc |
+| blocks.house       | available | $27.99    | —             | 53             | 29     | 6      | name.com                |
+| WiFi.house         | resell    | —         | —             | 83             | 37     | 5      | Spaceship, Inc.         |
+| commonground.house | available | $27.99    | —             | 74             | 28     | 13     | name.com                |
+| tokens.house       | resell    | —         | —             | 51             | 36     | 6      | Porkbun LLC             |
+| forms.house        | available | $27.99    | —             | 54             | 28     | 5      | name.com                |
+| chain.house        | resell    | —         | —             | 64             | 35     | 5      | Dynadot Inc             |
+| pages.house        | available | $27.99    | —             | 52             | 28     | 5      | name.com                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,192-row public sample | 8,192 live domains                               |
+| 1,000-row public sample | 10,520 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOUSE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOUSE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
