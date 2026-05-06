@@ -124,7 +124,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0a8fb3ae-b722-46c4-a6ed-3be866e977ae,affections.house,available,27.99,,62,2,10,name.com,,
 0aa60279-c71c-4b6b-bf03-d698182ccb9c,makeitcount.house,available,27.99,,72,8,13,name.com,,
 0b0a19ff-2f73-4ef1-8951-8e58329cd981,counseled.house,available,27.99,,59,1,9,name.com,,
-0b728eda-0e3d-4812-8016-b5bd741e061c,trade.house,resell,,,82,46,5,Porkbun LLC,24/06/2016 22:13,24/06/2026 22:13
+0b728eda-0e3d-4812-8016-b5bd741e061c,trade.house,resell,,,82,45,5,Porkbun LLC,24/06/2016 22:13,24/06/2026 22:13
 0b76aa3e-9dc1-47ba-95c5-af412fcb2818,wanttobet.house,available,27.99,,62,1,11,name.com,,
 0b89d2d4-e7b9-48e8-8428-92ef9e5b3ab2,businessstudies.house,available,27.99,,70,2,16,name.com,,
 0b8d9e01-fe09-4032-ab1b-c996cf3ba181,stockings.house,available,27.99,,58,6,9,name.com,,
@@ -559,7 +559,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 321ad4e6-6f1a-4deb-9ff0-d440a8bca305,decideon.house,available,27.99,,76,2,9,name.com,,
 326c5e4d-ac12-42f6-bda4-57699485d56e,coffeeglass.house,available,27.99,,80,1,12,name.com,,
 326f174b-f1e7-4ba4-9064-24b35f4290fa,adventures.house,available,27.99,,64,18,10,name.com,,
-32b03311-4b02-443d-a648-366b3ff02faa,burger.house,resell,,,84,28,6,Porkbun LLC,08/10/2015 21:46,08/10/2026 21:46
+32b03311-4b02-443d-a648-366b3ff02faa,burger.house,resell,,,84,27,6,Porkbun LLC,08/10/2015 21:46,08/10/2026 21:46
 32e97d06-ba85-4cdc-b1fb-dbc498ab9512,dowithout.house,available,27.99,,68,1,10,name.com,,
 32f60ae9-1af9-4a70-97d8-5c152359c5f3,setthescene.house,available,27.99,,68,3,13,name.com,,
 33346471-fb11-4281-97be-a7e335e8dbf0,introductions.house,available,27.99,,56,4,13,name.com,,
