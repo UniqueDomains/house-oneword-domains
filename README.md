@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
-| Acup.house         | available | $55.98    | —             | 80             | 5      | 5      | namecheap               |
-| Adidas.house       | available | $55.98    | —             | 88             | 23     | 6      | namecheap               |
-| gearup.house       | available | $27.99    | —             | 80             | 16     | 7      | name.com                |
-| playon.house       | available | $27.99    | —             | 80             | 14     | 7      | name.com                |
-| makeit.house       | available | $27.99    | —             | 82             | 22     | 7      | name.com                |
-| stirup.house       | available | $27.99    | —             | 82             | 3      | 7      | name.com                |
-| watches.house      | available | $27.99    | —             | 84             | 19     | 7      | name.com                |
-| dogsick.house      | available | $27.99    | —             | 90             | 1      | 7      | name.com                |
-| presents.house     | available | $27.99    | —             | 80             | 9      | 8      | name.com                |
-| shortcuts.house    | available | $27.99    | —             | 48             | 41     | 10     | name.com                |
-| best.house         | resell    | —         | —             | 82             | 55     | 4      | Porkbun LLC             |
-| SanDiego.house     | premium   | $242      | $242          | 74             | 29     | 9      | namesilo                |
-| neuroscience.house | available | $27.99    | —             | 80             | 37     | 12     | name.com                |
-| shop.house         | resell    | —         | —             | 73             | 52     | 4      | Porkbun LLC             |
-| weddings.house     | premium   | $78.54    | $78.54        | 64             | 18     | 8      | namesilo                |
-| payments.house     | available | $27.99    | —             | 58             | 33     | 8      | name.com                |
-| gold.house         | resell    | —         | —             | 72             | 48     | 4      | Porkbun LLC             |
-| ladies.house       | premium   | $123.75   | —             | 80             | 17     | 6      | name.com                |
-| letsgo.house       | available | $27.99    | —             | 57             | 31     | 7      | name.com                |
-| every.house        | resell    | —         | —             | 82             | 46     | 5      | Unstoppable Domains Inc |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| Acup.house         | available | $55.98    | —             | 80             | 5      | 5      | namecheap   |
+| Adidas.house       | available | $55.98    | —             | 88             | 23     | 6      | namecheap   |
+| gearup.house       | available | $27.99    | —             | 80             | 16     | 7      | name.com    |
+| playon.house       | available | $27.99    | —             | 80             | 14     | 7      | name.com    |
+| makeit.house       | available | $27.99    | —             | 82             | 22     | 7      | name.com    |
+| stirup.house       | available | $27.99    | —             | 82             | 3      | 7      | name.com    |
+| watches.house      | available | $27.99    | —             | 84             | 19     | 7      | name.com    |
+| dogsick.house      | available | $27.99    | —             | 90             | 1      | 7      | name.com    |
+| presents.house     | available | $27.99    | —             | 80             | 9      | 8      | name.com    |
+| shortcuts.house    | available | $27.99    | —             | 48             | 41     | 10     | name.com    |
+| best.house         | resell    | —         | —             | 82             | 55     | 4      | Porkbun LLC |
+| SanDiego.house     | premium   | $242      | $242          | 74             | 29     | 9      | namesilo    |
+| neuroscience.house | available | $27.99    | —             | 80             | 37     | 12     | name.com    |
+| shop.house         | resell    | —         | —             | 73             | 52     | 4      | Porkbun LLC |
+| weddings.house     | premium   | $78.54    | $78.54        | 64             | 18     | 8      | namesilo    |
+| payments.house     | available | $27.99    | —             | 58             | 33     | 8      | name.com    |
+| gold.house         | resell    | —         | —             | 72             | 48     | 4      | Porkbun LLC |
+| ladies.house       | premium   | $123.75   | —             | 80             | 17     | 6      | name.com    |
+| letsgo.house       | available | $27.99    | —             | 57             | 31     | 7      | name.com    |
+| trade.house        | resell    | —         | —             | 82             | 45     | 5      | Porkbun LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
