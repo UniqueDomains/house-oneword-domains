@@ -151,6 +151,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0d5c6ef4-c3f6-4f4d-85de-0828f068fad4,ventured.house,available,27.99,,60,6,8,name.com,,
 0d757b05-38e8-46ac-bbf4-e432562f6e65,honeymoons.house,available,27.99,,64,6,10,name.com,,
 0d76afae-48c7-4dcf-a783-eba0b0b245ba,fasttracks.house,available,27.99,,56,4,11,name.com,,
+0d796196-4482-4b8d-863a-f364e401fd88,oldest.house,premium,,,72,4,6,,,
 0d9d2d48-809e-45a1-8e07-700176b62531,cometrue.house,available,27.99,,82,5,9,name.com,,
 0d9e1c99-addc-4575-8b04-d25af94b1c06,hillclimbing.house,available,27.99,,68,2,13,name.com,,
 0da86fb9-9766-425d-9bc7-ef60eb435f81,goneover.house,available,27.99,,50,1,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5abb2e5a-9b2b-4256-820c-60fc9e2f0b93,prefers.house,available,27.99,,52,3,7,name.com,,
 5ac591eb-56b3-43a3-8a1a-4eadd78f5deb,gooutlikealight.house,available,27.99,,62,1,19,name.com,,
 5ac6760c-e4b7-42e8-9e28-dc4e8e3a2e1e,postponement.house,available,27.99,,57,1,12,name.com,,
-5ad1b87e-b7e7-4a40-8377-65da083757f8,disappointments.house,available,27.99,,30,1,15,name.com,,
