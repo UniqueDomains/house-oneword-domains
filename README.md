@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .house one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,054 domains · **Median ask:** $30.32 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/house`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | Acup.house         | available | $55.98    | —             | 80             | 5      | 5      | namecheap   |
-| Adidas.house       | available | $55.98    | —             | 88             | 23     | 6      | namecheap   |
+| Adidas.house       | available | $55.98    | —             | 88             | 24     | 6      | namecheap   |
 | gearup.house       | available | $27.99    | —             | 80             | 16     | 7      | name.com    |
 | playon.house       | available | $27.99    | —             | 80             | 14     | 7      | name.com    |
 | makeit.house       | available | $27.99    | —             | 82             | 22     | 7      | name.com    |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOUSE One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOUSE One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
