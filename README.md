@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .house one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,053 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,053 domains · **Median ask:** $30.32 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,053 domains · **Median ask:** $30.24 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/house`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/house`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HOUSE one-word domain
 
 ### Files
 
-- `house.csv` — public CSV extract (1,000 rows)
-- `house.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `house.csv`, public CSV extract (1,000 rows)
+- `house.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| Acup.house         | available | $55.98    | —             | 80             | 5      | 5      | namecheap   |
-| Adidas.house       | available | $55.98    | —             | 88             | 24     | 6      | namecheap   |
-| gearup.house       | available | $27.99    | —             | 80             | 16     | 7      | name.com    |
-| playon.house       | available | $27.99    | —             | 80             | 14     | 7      | name.com    |
-| makeit.house       | available | $27.99    | —             | 82             | 21     | 7      | name.com    |
-| stirup.house       | available | $27.99    | —             | 82             | 3      | 7      | name.com    |
-| watches.house      | available | $27.99    | —             | 84             | 19     | 7      | name.com    |
-| dogsick.house      | available | $27.99    | —             | 90             | 1      | 7      | name.com    |
-| presents.house     | available | $27.99    | —             | 80             | 9      | 8      | name.com    |
-| shortcuts.house    | available | $27.99    | —             | 48             | 41     | 10     | name.com    |
-| best.house         | resell    | —         | —             | 82             | 55     | 4      | Porkbun LLC |
-| SanDiego.house     | premium   | $242      | $242          | 74             | 29     | 9      | namesilo    |
-| neuroscience.house | available | $27.99    | —             | 80             | 37     | 12     | name.com    |
-| shop.house         | resell    | —         | —             | 73             | 52     | 4      | Porkbun LLC |
-| weddings.house     | premium   | $78.54    | $78.54        | 64             | 18     | 8      | namesilo    |
-| payments.house     | available | $27.99    | —             | 58             | 33     | 8      | name.com    |
-| gold.house         | resell    | —         | —             | 72             | 48     | 4      | Porkbun LLC |
-| ladies.house       | premium   | $123.75   | —             | 80             | 17     | 6      | name.com    |
-| letsgo.house       | available | $27.99    | —             | 57             | 31     | 7      | name.com    |
-| trade.house        | resell    | —         | —             | 82             | 45     | 5      | Porkbun LLC |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
+| BJP.house  | available | $27.99    | —             | medium         | low    | 3      | name.com                |
+| bot.house  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.         |
+| are.house  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                |
+| cot.house  | available | $27.99    | —             | high           | low    | 3      | name.com                |
+| cat.house  | resell    | —         | —             | high           | high   | 3      | NameCheap, Inc.         |
+| dad.house  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                |
+| cup.house  | available | $27.99    | —             | high           | low    | 3      | name.com                |
+| ice.house  | resell    | —         | —             | medium         | medium | 3      | Sav.com, LLC            |
+| fee.house  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                |
+| gal.house  | available | $27.99    | —             | medium         | low    | 3      | name.com                |
+| max.house  | resell    | —         | —             | high           | medium | 3      | Virtualia LLC           |
+| gag.house  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                |
+| leg.house  | available | $27.99    | —             | high           | low    | 3      | name.com                |
+| tax.house  | resell    | —         | —             | high           | medium | 3      | Unstoppable Domains Inc |
+| ing.house  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                |
+| off.house  | available | $27.99    | —             | high           | low    | 3      | name.com                |
+| baby.house | resell    | —         | —             | high           | low    | 4      | Dot Holding Inc.        |
+| los.house  | premium   | $82.50    | —             | high           | low    | 3      | name.com                |
+| rid.house  | available | $27.99    | —             | high           | low    | 3      | name.com                |
+| bald.house | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word domains on the .house extension. The names range from dictionary-style words to coined or less intuitive terms, with examples such as Acup.house, finals.house, jewels.house, forces.house, getup.house, and useit.house. When comparing these domains, start with how clearly the word reads, how easily it can be spoken and recalled, and whether the pairing with .house feels natural. Price discipline matters too: the median ask across this set is 30.32. Be careful with terms that may raise trademark concerns, especially names like Adidas.house or Apples.house, where brand conflict can outweigh apparent appeal.
+This selection covers one-word .house domain names like playon.house, makeit.house, and landscaping.house. Most carry a median asking price near $30, keeping entry cost low across the set. The .house extension suits lifestyle, home-services, and community-driven names, so check trademark overlap and renewal pricing before committing. When comparing these domains, weigh brandability and clarity against long-term ownership costs.
 
-- 11,054 one-word domains on the .house extension
-- Median ask across this set is 30.32
-- Strongest picks are clear, memorable, and easy to say
-- Avoid names with obvious trademark conflict risk
+- 11,053 one-word .house domains in this set
+- Median asking price near $30 across listings
+- Brandable names like gearup.house and cometrue.house
+- Updated daily to reflect current .house availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOUSE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOUSE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
