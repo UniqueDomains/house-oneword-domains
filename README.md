@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .house one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,688 domains · **Median ask:** $19.03 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/house`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
-| bjp.house  | available | $27.99    | —             | medium         | low    | 3      | name.com                |
-| bot.house  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.         |
-| are.house  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                |
-| bum.house  | available | $12.98    | $55.98        | low            | low    | 3      | namecheap               |
-| cat.house  | resell    | —         | —             | high           | high   | 3      | NameCheap, Inc.         |
-| clv.house  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                |
-| cot.house  | available | $27.99    | —             | high           | low    | 3      | name.com                |
-| ice.house  | resell    | —         | —             | low            | low    | 3      | Sav.com, LLC            |
-| dad.house  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                |
-| cup.house  | available | $19.99    | $44.49        | medium         | low    | 3      | namesilo                |
-| tax.house  | resell    | —         | —             | high           | medium | 3      | Unstoppable Domains Inc |
-| fee.house  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                |
-| gal.house  | available | $27.99    | —             | medium         | low    | 3      | name.com                |
-| baby.house | resell    | —         | —             | high           | low    | 4      | Dot Holding Inc.        |
-| gag.house  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                |
-| leg.house  | available | $27.99    | —             | high           | low    | 3      | name.com                |
-| bets.house | resell    | —         | —             | high           | low    | 4      | Dynadot Inc             |
-| ing.house  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                |
-| lii.house  | available | $12.98    | $55.98        | low            | low    | 3      | namecheap               |
-| club.house | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC            |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
+| present.house | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 21       |
+| bjp.house     | available | $27.99    | —             | medium         | low    | 3      | name.com                |
+| bot.house     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.         |
+| are.house     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                |
+| bum.house     | available | $12.98    | $55.98        | low            | low    | 3      | namecheap               |
+| cat.house     | resell    | —         | —             | high           | high   | 3      | NameCheap, Inc.         |
+| clv.house     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                |
+| cot.house     | available | $27.99    | —             | high           | low    | 3      | name.com                |
+| ice.house     | resell    | —         | —             | low            | low    | 3      | Sav.com, LLC            |
+| dad.house     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                |
+| cup.house     | available | $19.99    | $44.49        | medium         | low    | 3      | namesilo                |
+| tax.house     | resell    | —         | —             | high           | medium | 3      | Unstoppable Domains Inc |
+| fee.house     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                |
+| gal.house     | available | $27.99    | —             | medium         | low    | 3      | name.com                |
+| baby.house    | resell    | —         | —             | high           | low    | 4      | Dot Holding Inc.        |
+| gag.house     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                |
+| leg.house     | available | $27.99    | —             | high           | low    | 3      | name.com                |
+| bets.house    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc             |
+| ing.house     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                |
+| lii.house     | available | $12.98    | $55.98        | low            | low    | 3      | namecheap               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOUSE One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOUSE One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
